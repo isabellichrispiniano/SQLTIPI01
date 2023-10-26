@@ -12,3 +12,4 @@ use dbloterica;
 
 -- mostrando as tabelas
 show tables;
+
