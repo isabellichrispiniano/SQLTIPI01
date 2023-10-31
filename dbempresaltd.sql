@@ -43,4 +43,3 @@ idclientes int
 show tables;
 desc tbCategorias;
 
-mysql -u root -p
